@@ -1,3 +1,2 @@
 # ping-pong
 #### A browser-based pong game built using the HTML5 Canvas API and JavaScript. Features include dynamic paddle control, responsive computer AI, increasing difficulty with ball speed, and a scoring system. The game supports both desktop and mobile devices, adjusting settings for optimal gameplay. Players can compete against the computer to reach the winning score, with a replay option available after the game ends.
-now based on the projects I have shared namely notalgio, smart-brain app, robofriends(https://github.com/andresgrc/roboSearchVite) analyze to complete task, picture in picture, pingpong game, and video player, create a format according to 
